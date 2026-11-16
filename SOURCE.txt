@@ -1,0 +1,5 @@
+来源仓库：https://github.com/topojson/topojson-client
+冻结 commit：71e5bd6428fd8b7a40fa980d2ef7862140851f03
+许可证：ISC
+导入日期：2026-11-16
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
